@@ -49,9 +49,3 @@ print ("Accuracy : ", accuracy_score(y_test, y_pred))
 
 #accuracy is measured as percent , 0.87 is 87%
 #here 38 out of 79 is predicted data and 6 and 11 is wrong prediction in confusion matrix
-
-#journal
-#vs code 
-#regression
-#logistic reg not multiple linear
-#download dataset online and use categorical function
